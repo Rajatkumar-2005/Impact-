@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Impact Summit 2026 - Bharat Mandapam",
+  "description": "The official digital companion for the premier AI conference at Bharat Mandapam, New Delhi. Discover events, explore exhibitions, and navigate the futuristic landscape of AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
